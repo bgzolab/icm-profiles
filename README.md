@@ -20,7 +20,7 @@ Laptop ICMs profiles.
 
 ### Laptop
 
-- Magicbook Pro 14
+- Magicbook Pro 14 2026
 
 ## Contributing
 
