@@ -9,6 +9,13 @@
 
 Laptop ICMs profiles.
 
+## Scopes
+
+| ICMs                  | Panel Brand    | Size | Resolution         | Pixel Density | Panel Technology        | Brightness | Contrast Ratio | Color Gamut                     | Refresh Rate | Viewing Angle        | Interface Type                  |  Applications    |
+| --------------------- | -------------- | ---- | ------------------ | ------------- | ----------------------- | ---------- | -------------- | ------------------------------- | ------------ | -------------------- | ------------------------------- | ----------------------- |
+| `LQ170R1JX42.icm`     | 夏普 (Sharp)   | 17.0 | 3840 × 2400 UHD+   | 266 PPI       | Oxide TFT-LCD，IPS mode | 500 cd/m²  | 1600:1         | 16.7M；100% sRGB（100% DCI-P3） | 60Hz         | 89/89/89/89          | 40 Pins                         | Dell XPS 17 / Precision |
+| `B140ZAN01.4 HJM.icm` | 友达光电 (AUO) | 14.0 | 3840 × 2160 UHD 4K | 315 PPI       | LTPS TFT-LCD，AHVA mode | 400 cd/m²  | 1200:1         | 16.7M；100% sRGB                | 60Hz         | 85/85/85/85（CR≥10） | eDP (4 Lanes)，eDP 1.4，40 Pins | Dell Latidude 7410      |
+
 ## Contributing
 
 Any contributions made are **greatly appreciated**.
